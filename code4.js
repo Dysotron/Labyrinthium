@@ -97,7 +97,7 @@ gdjs.Maze2Code.condition3IsTrue_1 = {val:false};
 gdjs.Maze2Code.condition4IsTrue_1 = {val:false};
 
 
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects2Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDShockballObjects2Objects = Hashtable.newFrom({"Shockball": gdjs.Maze2Code.GDShockballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDPoisonballObjects2Objects = Hashtable.newFrom({"Poisonball": gdjs.Maze2Code.GDPoisonballObjects2});gdjs.Maze2Code.eventsList0x684fc0 = function(runtimeScene) {
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects2Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDShockballObjects2Objects = Hashtable.newFrom({"Shockball": gdjs.Maze2Code.GDShockballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDPoisonballObjects2Objects = Hashtable.newFrom({"Poisonball": gdjs.Maze2Code.GDPoisonballObjects2});gdjs.Maze2Code.eventsList0xe2abb0 = function(runtimeScene) {
 
 {
 
@@ -343,8 +343,8 @@ gdjs.Maze2Code.GDWizardObjects1.createFrom(runtimeScene.getObjects("Wizard"));
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0x684fc0
-gdjs.Maze2Code.eventsList0xdd2ea8 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0xe2abb0
+gdjs.Maze2Code.eventsList0xe618f0 = function(runtimeScene) {
 
 {
 
@@ -549,12 +549,12 @@ gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 {
 
 
-gdjs.Maze2Code.eventsList0x684fc0(runtimeScene);
+gdjs.Maze2Code.eventsList0xe2abb0(runtimeScene);
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0xdd2ea8
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects2Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDShockballObjects2Objects = Hashtable.newFrom({"Shockball": gdjs.Maze2Code.GDShockballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDPoisonballObjects2Objects = Hashtable.newFrom({"Poisonball": gdjs.Maze2Code.GDPoisonballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects2Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects1Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects1Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects1Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects1});gdjs.Maze2Code.eventsList0xdd2668 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0xe618f0
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects2Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDShockballObjects2Objects = Hashtable.newFrom({"Shockball": gdjs.Maze2Code.GDShockballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDPoisonballObjects2Objects = Hashtable.newFrom({"Poisonball": gdjs.Maze2Code.GDPoisonballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects2Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects1Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects1Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWallObjects1Objects = Hashtable.newFrom({"Wall": gdjs.Maze2Code.GDWallObjects1});gdjs.Maze2Code.eventsList0x803888 = function(runtimeScene) {
 
 {
 
@@ -668,8 +668,8 @@ gdjs.Maze2Code.GDZombieObjects1.createFrom(runtimeScene.getObjects("Zombie"));
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0xdd2668
-gdjs.Maze2Code.eventsList0x78a738 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0x803888
+gdjs.Maze2Code.eventsList0xad5bb0 = function(runtimeScene) {
 
 {
 
@@ -712,8 +712,8 @@ gdjs.Maze2Code.GDWizardObjects1.createFrom(runtimeScene.getObjects("Wizard"));
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0x78a738
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDMapHelpObjects2Objects = Hashtable.newFrom({"MapHelp": gdjs.Maze2Code.GDMapHelpObjects2});gdjs.Maze2Code.eventsList0x79ced0 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0xad5bb0
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDMapHelpObjects2Objects = Hashtable.newFrom({"MapHelp": gdjs.Maze2Code.GDMapHelpObjects2});gdjs.Maze2Code.eventsList0xe61138 = function(runtimeScene) {
 
 {
 
@@ -755,7 +755,7 @@ gdjs.Maze2Code.GDFPSObjects2.createFrom(runtimeScene.getObjects("FPS"));
 gdjs.Maze2Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Maze2Code.conditionTrue_1 = gdjs.Maze2Code.condition0IsTrue_0;
-gdjs.Maze2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11212812);
+gdjs.Maze2Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10399844);
 }
 }if (gdjs.Maze2Code.condition0IsTrue_0.val) {
 gdjs.Maze2Code.GDFindKeyObjects2.createFrom(runtimeScene.getObjects("FindKey"));
@@ -839,7 +839,7 @@ gdjs.Maze2Code.GDFPSObjects2.createFrom(runtimeScene.getObjects("FPS"));
 
 gdjs.Maze2Code.condition0IsTrue_0.val = false;
 {
-gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "F1");
+gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "Multiply");
 }if (gdjs.Maze2Code.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(1);
 }{runtimeScene.getGame().getVariables().getFromIndex(4).setNumber(100);
@@ -853,7 +853,7 @@ gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runti
 
 gdjs.Maze2Code.condition0IsTrue_0.val = false;
 {
-gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "F2");
+gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "Divide");
 }if (gdjs.Maze2Code.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(0);
 }{runtimeScene.getGame().getVariables().getFromIndex(4).setNumber(5);
@@ -862,8 +862,8 @@ gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runti
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0x79ced0
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDStairsObjects2Objects = Hashtable.newFrom({"Stairs": gdjs.Maze2Code.GDStairsObjects2});gdjs.Maze2Code.eventsList0x79dba8 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0xe61138
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDStairsObjects2Objects = Hashtable.newFrom({"Stairs": gdjs.Maze2Code.GDStairsObjects2});gdjs.Maze2Code.eventsList0xe18f60 = function(runtimeScene) {
 
 {
 
@@ -1085,8 +1085,8 @@ if (gdjs.Maze2Code.condition1IsTrue_0.val) {
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0x79dba8
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects2Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDPoisonballObjects2Objects = Hashtable.newFrom({"Poisonball": gdjs.Maze2Code.GDPoisonballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDShockballObjects2Objects = Hashtable.newFrom({"Shockball": gdjs.Maze2Code.GDShockballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects1Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects1Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects1});gdjs.Maze2Code.eventsList0xc631a8 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0xe18f60
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects2Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDPoisonballObjects2Objects = Hashtable.newFrom({"Poisonball": gdjs.Maze2Code.GDPoisonballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDShockballObjects2Objects = Hashtable.newFrom({"Shockball": gdjs.Maze2Code.GDShockballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects2Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects1Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDZombieObjects1Objects = Hashtable.newFrom({"Zombie": gdjs.Maze2Code.GDZombieObjects1});gdjs.Maze2Code.eventsList0xae74c8 = function(runtimeScene) {
 
 {
 
@@ -1209,8 +1209,8 @@ gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTe
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0xc631a8
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.Maze2Code.GDDoorObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.Maze2Code.GDDoorObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDDoorObjects1Objects = Hashtable.newFrom({"Door": gdjs.Maze2Code.GDDoorObjects1});gdjs.Maze2Code.eventsList0xc866b0 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0xae74c8
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.Maze2Code.GDDoorObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDDoorObjects2Objects = Hashtable.newFrom({"Door": gdjs.Maze2Code.GDDoorObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDDoorObjects1Objects = Hashtable.newFrom({"Door": gdjs.Maze2Code.GDDoorObjects1});gdjs.Maze2Code.eventsList0x789100 = function(runtimeScene) {
 
 {
 
@@ -1282,8 +1282,8 @@ gdjs.Maze2Code.GDWizardObjects1.createFrom(runtimeScene.getObjects("Wizard"));
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0xc866b0
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDMapObjects2Objects = Hashtable.newFrom({"Map": gdjs.Maze2Code.GDMapObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects1Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDKeyObjects1Objects = Hashtable.newFrom({"Key": gdjs.Maze2Code.GDKeyObjects1});gdjs.Maze2Code.eventsList0xde4748 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0x789100
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDMapObjects2Objects = Hashtable.newFrom({"Map": gdjs.Maze2Code.GDMapObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects1Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDKeyObjects1Objects = Hashtable.newFrom({"Key": gdjs.Maze2Code.GDKeyObjects1});gdjs.Maze2Code.eventsList0x79d5e0 = function(runtimeScene) {
 
 {
 
@@ -1323,11 +1323,11 @@ gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTe
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0xde4748
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects3Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects3});gdjs.Maze2Code.eventsList0xe3d678 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0x79d5e0
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects3Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects3});gdjs.Maze2Code.eventsList0xf29370 = function(runtimeScene) {
 
-}; //End of gdjs.Maze2Code.eventsList0xe3d678
-gdjs.Maze2Code.eventsList0xde4e98 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0xf29370
+gdjs.Maze2Code.eventsList0x79d1f0 = function(runtimeScene) {
 
 {
 
@@ -1353,8 +1353,8 @@ if (true) {
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0xde4e98
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects2Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects2Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects2Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects2Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcWarriorObjects2Objects = Hashtable.newFrom({"OrcWarrior": gdjs.Maze2Code.GDOrcWarriorObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects1Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcWarriorObjects1Objects = Hashtable.newFrom({"OrcWarrior": gdjs.Maze2Code.GDOrcWarriorObjects1});gdjs.Maze2Code.eventsList0xde4dc0 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0x79d1f0
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects2Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects2Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects2Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcAxeObjects2Objects = Hashtable.newFrom({"OrcAxe": gdjs.Maze2Code.GDOrcAxeObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDIceballObjects2Objects = Hashtable.newFrom({"Iceball": gdjs.Maze2Code.GDIceballObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcWarriorObjects2Objects = Hashtable.newFrom({"OrcWarrior": gdjs.Maze2Code.GDOrcWarriorObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDFireballObjects1Objects = Hashtable.newFrom({"Fireball": gdjs.Maze2Code.GDFireballObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDOrcWarriorObjects1Objects = Hashtable.newFrom({"OrcWarrior": gdjs.Maze2Code.GDOrcWarriorObjects1});gdjs.Maze2Code.eventsList0x79d118 = function(runtimeScene) {
 
 {
 
@@ -1376,7 +1376,7 @@ gdjs.Maze2Code.GDOrcWarriorObjects2.length = k;}if (gdjs.Maze2Code.condition0IsT
 }
 }
 { //Subevents
-gdjs.Maze2Code.eventsList0xde4e98(runtimeScene);} //End of subevents
+gdjs.Maze2Code.eventsList0x79d1f0(runtimeScene);} //End of subevents
 }
 
 }
@@ -1502,8 +1502,8 @@ gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTe
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0xde4dc0
-gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDHealthFlaskObjects2Objects = Hashtable.newFrom({"HealthFlask": gdjs.Maze2Code.GDHealthFlaskObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects1Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDBigHealthFlaskObjects1Objects = Hashtable.newFrom({"BigHealthFlask": gdjs.Maze2Code.GDBigHealthFlaskObjects1});gdjs.Maze2Code.eventsList0xcbc428 = function(runtimeScene) {
+}; //End of gdjs.Maze2Code.eventsList0x79d118
+gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects2Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDHealthFlaskObjects2Objects = Hashtable.newFrom({"HealthFlask": gdjs.Maze2Code.GDHealthFlaskObjects2});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDWizardObjects1Objects = Hashtable.newFrom({"Wizard": gdjs.Maze2Code.GDWizardObjects1});gdjs.Maze2Code.mapOfGDgdjs_46Maze2Code_46GDBigHealthFlaskObjects1Objects = Hashtable.newFrom({"BigHealthFlask": gdjs.Maze2Code.GDBigHealthFlaskObjects1});gdjs.Maze2Code.eventsList0xcaa2d8 = function(runtimeScene) {
 
 {
 
@@ -1549,76 +1549,76 @@ gdjs.Maze2Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTe
 }
 
 
-}; //End of gdjs.Maze2Code.eventsList0xcbc428
+}; //End of gdjs.Maze2Code.eventsList0xcaa2d8
 gdjs.Maze2Code.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.Maze2Code.eventsList0xdd2ea8(runtimeScene);
+gdjs.Maze2Code.eventsList0xe618f0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Maze2Code.eventsList0xdd2668(runtimeScene);
+gdjs.Maze2Code.eventsList0x803888(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Maze2Code.eventsList0x78a738(runtimeScene);
+gdjs.Maze2Code.eventsList0xad5bb0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Maze2Code.eventsList0x79ced0(runtimeScene);
+gdjs.Maze2Code.eventsList0xe61138(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Maze2Code.eventsList0x79dba8(runtimeScene);
+gdjs.Maze2Code.eventsList0xe18f60(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Maze2Code.eventsList0xc631a8(runtimeScene);
+gdjs.Maze2Code.eventsList0xae74c8(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Maze2Code.eventsList0xc866b0(runtimeScene);
+gdjs.Maze2Code.eventsList0x789100(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Maze2Code.eventsList0xde4748(runtimeScene);
+gdjs.Maze2Code.eventsList0x79d5e0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Maze2Code.eventsList0xde4dc0(runtimeScene);
+gdjs.Maze2Code.eventsList0x79d118(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Maze2Code.eventsList0xcbc428(runtimeScene);
+gdjs.Maze2Code.eventsList0xcaa2d8(runtimeScene);
 }
 
 
